@@ -4,7 +4,7 @@
 中文文本分类，Bert，ERNIE，基于pytorch，开箱即用。
 
 ## 介绍
-模型介绍、数据流动过程： 工作忙，懒得写了，类似文章有很多。
+模型介绍、数据流动过程：
 
 机器：一块2080Ti ， 训练时间：30分钟。  
 
@@ -14,7 +14,7 @@ pytorch 1.1
 tqdm  
 sklearn  
 tensorboardX  
-~~pytorch_pretrained_bert~~(预训练代码也上传了, 不需要这个库了)  
+
 
 
 ## 中文数据集
